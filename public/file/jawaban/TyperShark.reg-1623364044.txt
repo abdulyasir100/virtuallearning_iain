@@ -1,0 +1,6 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE\PopCap\TyperShark]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\PopCap\TyperShark\Users]
+"User"="Ferry"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\PopCap\TyperShark\Users\Player]
